@@ -2,14 +2,14 @@
 
 Um timer.
 
-Acesse-o pelo link abaixo: 
+## Acesse-o pelo link abaixo: 
 
 sunbaee.github.io/my_timer/
 
-<h2>English</h2>
+# English
 
 A timer.
 
-Access it via the link below: 
+## Access it via the link below: 
 
 sunbaee.github.io/my_timer/
